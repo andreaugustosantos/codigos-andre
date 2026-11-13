@@ -1,0 +1,12 @@
+# dados da LSEG e transcripts: licenciados, não podem ser publicados
+dados/
+transcripts/
+resultados/
+tabelas_dissertacao/
+*.xlsx
+*.csv
+*.pkl
+*.txt
+!requirements.txt
+__pycache__/
+*.log
