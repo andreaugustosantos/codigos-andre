@@ -1,0 +1,8 @@
+# Versões com que o pacote foi testado do começo ao fim, com Python 3.12 (novembro de 2026)
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+pyfixest==0.60.0
+matplotlib==3.11.2
+openpyxl==3.1.5
+statsmodels==0.15.0
